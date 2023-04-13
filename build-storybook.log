@@ -1,11 +1,11 @@
 @storybook/cli v7.0.4
 
-info => Cleaning outputDir: /var/folders/_9/4pqw7vzd6_98vk0p3_l203y40000gn/T/chromatic--27303-qdGp9ZbkLuaQ
+info => Cleaning outputDir: /var/folders/_9/4pqw7vzd6_98vk0p3_l203y40000gn/T/chromatic--28463-753pLHSFlJ2c
 info => Loading presets
 info => Building manager..
-info => Manager built (277 ms)
+info => Manager built (250 ms)
 info => Compiling preview..
-info => Copying static files: /Users/des/Documents/anydayessay/npx/node_modules/@storybook/manager/static at /var/folders/_9/4pqw7vzd6_98vk0p3_l203y40000gn/T/chromatic--27303-qdGp9ZbkLuaQ/sb-common-assets
+info => Copying static files: /Users/des/Documents/anydayessay/npx/node_modules/@storybook/manager/static at /var/folders/_9/4pqw7vzd6_98vk0p3_l203y40000gn/T/chromatic--28463-753pLHSFlJ2c/sb-common-assets
 info Addon-docs: using MDX2
 info => Loading Webpack configuration from `node_modules/react-scripts`
 info => Removing existing JavaScript and TypeScript rules.
@@ -117,29 +117,27 @@ info => Using default Webpack5 setup
 <s> [webpack.Progress] 9% setup compilation
 <s> [webpack.Progress] 10% building
 <s> [webpack.Progress] 10% building 0/1 entries 0/0 dependencies 0/0 modules
-<s> [webpack.Progress] 10% building 0/1 entries 5/17 dependencies 3/5 modules
-<s> [webpack.Progress] 10% building import loader ./node_modules/babel-loader/lib/index.js
-<s> [webpack.Progress] 10% building import loader ./node_modules/source-map-loader/dist/cjs.js
-<s> [webpack.Progress] 10% building 0/1 entries 11/26 dependencies 3/11 modules
-info => Copying static files: /Users/des/Documents/anydayessay/npx/public at /var/folders/_9/4pqw7vzd6_98vk0p3_l203y40000gn/T/chromatic--27303-qdGp9ZbkLuaQ/
-<s> [webpack.Progress] 10% building 0/1 entries 25/35 dependencies 3/23 modules
-<s> [webpack.Progress] 10% building import loader ./node_modules/@storybook/mdx2-csf/loader.js
-<s> [webpack.Progress] 10% building 0/1 entries 25/35 dependencies 4/24 modules
-<s> [webpack.Progress] 10% building import loader ./node_modules/unplugin/dist/webpack/loaders/transform.js
-<s> [webpack.Progress] 10% building 0/1 entries 41/76 dependencies 9/31 modules
-<s> [webpack.Progress] 10% building import loader ./node_modules/@svgr/webpack/lib/index.js
-<s> [webpack.Progress] 10% building import loader ./node_modules/file-loader/dist/cjs.js
-<s> [webpack.Progress] 10% building 0/1 entries 65/87 dependencies 11/52 modules
-<s> [webpack.Progress] 11% building 0/1 entries 125/142 dependencies 35/83 modules
-<s> [webpack.Progress] 12% building 0/1 entries 169/203 dependencies 45/100 modules
-<s> [webpack.Progress] 12% building import loader ./node_modules/mini-css-extract-plugin/dist/loader.js
-<s> [webpack.Progress] 12% building import loader ./node_modules/css-loader/dist/cjs.js
-<s> [webpack.Progress] 12% building import loader ./node_modules/postcss-loader/dist/cjs.js
-<s> [webpack.Progress] 12% building 0/1 entries 212/242 dependencies 54/123 modules
-<s> [webpack.Progress] 14% building 0/1 entries 375/492 dependencies 90/200 modules
-<s> [webpack.Progress] 21% building 0/1 entries 750/765 dependencies 200/330 modules
-<s> [webpack.Progress] 32% building 0/1 entries 1074/1086 dependencies 400/461 modules
-<s> [webpack.Progress] 64% building 1/1 entries 1440/1440 dependencies 670/670 modules
+<s> [webpack.Progress] 24% building import loader ./node_modules/babel-loader/lib/index.js
+<s> [webpack.Progress] 24% building import loader ./node_modules/source-map-loader/dist/cjs.js
+<s> [webpack.Progress] 24% building 0/1 entries 11/25 dependencies 3/11 modules
+info => Copying static files: /Users/des/Documents/anydayessay/npx/public at /var/folders/_9/4pqw7vzd6_98vk0p3_l203y40000gn/T/chromatic--28463-753pLHSFlJ2c/
+<s> [webpack.Progress] 18% building import loader ./node_modules/@storybook/mdx2-csf/loader.js
+<s> [webpack.Progress] 18% building 0/1 entries 27/41 dependencies 4/25 modules
+<s> [webpack.Progress] 25% building import loader ./node_modules/unplugin/dist/webpack/loaders/transform.js
+<s> [webpack.Progress] 25% building 0/1 entries 41/76 dependencies 9/31 modules
+<s> [webpack.Progress] 21% building import loader ./node_modules/@svgr/webpack/lib/index.js
+<s> [webpack.Progress] 21% building import loader ./node_modules/file-loader/dist/cjs.js
+<s> [webpack.Progress] 21% building 0/1 entries 65/87 dependencies 11/52 modules
+<s> [webpack.Progress] 36% building 0/1 entries 134/169 dependencies 41/84 modules
+<s> [webpack.Progress] 34% building import loader ./node_modules/mini-css-extract-plugin/dist/loader.js
+<s> [webpack.Progress] 34% building import loader ./node_modules/css-loader/dist/cjs.js
+<s> [webpack.Progress] 34% building import loader ./node_modules/postcss-loader/dist/cjs.js
+<s> [webpack.Progress] 34% building 0/1 entries 198/231 dependencies 51/114 modules
+<s> [webpack.Progress] 27% building 0/1 entries 300/351 dependencies 59/185 modules
+<s> [webpack.Progress] 37% building 0/1 entries 600/688 dependencies 146/290 modules
+<s> [webpack.Progress] 42% building 0/1 entries 728/750 dependencies 200/334 modules
+<s> [webpack.Progress] 57% building 0/1 entries 1074/1086 dependencies 400/461 modules
+<s> [webpack.Progress] 65% building 1/1 entries 1440/1440 dependencies 670/670 modules
 <s> [webpack.Progress] 65% building
 <s> [webpack.Progress] 69% building finish
 <s> [webpack.Progress] 69% building finish
@@ -243,24 +241,24 @@ info => Copying static files: /Users/des/Documents/anydayessay/npx/public at /va
 <s> [webpack.Progress] 92% sealing asset processing TerserPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.4239d0c8.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.4239d0c8.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.21a89233.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.21a89233.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.95dc207c.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.95dc207c.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.196d5f6d.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.196d5f6d.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Introduction-mdx.0d63036d.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Introduction-mdx.0d63036d.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/stories-Button-stories.4a867eda.chunk.css generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/stories-Button-stories.4a867eda.chunk.css generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Button-stories.0d176df5.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Button-stories.0d176df5.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Button-stories.88cffc95.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Button-stories.88cffc95.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/stories-Header-stories.395daf4b.chunk.css generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/stories-Header-stories.395daf4b.chunk.css generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Header-stories.83d8a317.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Header-stories.83d8a317.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Header-stories.590d27a3.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Header-stories.590d27a3.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/stories-Page-stories.42316900.chunk.css generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/stories-Page-stories.42316900.chunk.css generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Page-stories.af8e2efb.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Page-stories.af8e2efb.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Page-stories.c704a609.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Page-stories.c704a609.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 960.86291b9a.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 960.86291b9a.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 333.0de44f98.iframe.bundle.js generate SourceMap
@@ -308,10 +306,10 @@ info => Copying static files: /Users/des/Documents/anydayessay/npx/public at /va
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.cccff77c.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.cccff77c.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.eb4b3f02.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.eb4b3f02.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin stories-Page-stories.2015e825.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin stories-Page-stories.2015e825.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.79bf3a84.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.79bf3a84.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin stories-Page-stories.d842dd2f.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin stories-Page-stories.d842dd2f.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 960.80f4f811.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 960.80f4f811.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 333.41d975db.iframe.bundle.js generate SourceMap
@@ -328,10 +326,10 @@ info => Copying static files: /Users/des/Documents/anydayessay/npx/public at /va
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 433.4fe76ed1.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin stories-Introduction-mdx.fdebea69.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin stories-Introduction-mdx.fdebea69.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin stories-Button-stories.97019377.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin stories-Button-stories.97019377.iframe.bundle.js generated SourceMap
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin stories-Header-stories.835acd73.iframe.bundle.js generate SourceMap
-<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin stories-Header-stories.835acd73.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin stories-Button-stories.eade989a.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin stories-Button-stories.eade989a.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin stories-Header-stories.eb293f4f.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin stories-Header-stories.eb293f4f.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 277.d0c18347.iframe.bundle.js generate SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 277.d0c18347.iframe.bundle.js generated SourceMap
 <s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin resolve sources
@@ -355,74 +353,75 @@ info => Copying static files: /Users/des/Documents/anydayessay/npx/public at /va
 ERR! => Failed to build the preview
 ERR! [eslint] 
 ERR! src/stories/Button.jsx
-ERR!   Line 1:26:   Delete `;`                                                                                                                                               prettier/prettier
-ERR!   Line 2:1:    'prop-types' should be listed in the project's dependencies, not devDependencies                                                                         import/no-extraneous-dependencies
-ERR!   Line 2:35:   Delete `;`                                                                                                                                               prettier/prettier
-ERR!   Line 3:22:   Delete `;`                                                                                                                                               prettier/prettier
-ERR!   Line 8:23:   Function component is not a function declaration                                                                                                         react/function-component-definition
-ERR!   Line 9:23:   Replace `·?·'storybook-button--primary'·:·'storybook-button--secondary';` with `⏎····?·'storybook-button--primary'⏎····:·'storybook-button--secondary'`  prettier/prettier
-ERR!   Line 13:79:  Replace `'·'` with `⏎········'·',⏎······`                                                                                                                prettier/prettier
-ERR!   Line 19:4:   Delete `;`                                                                                                                                               prettier/prettier
-ERR!   Line 20:2:   Delete `;`                                                                                                                                               prettier/prettier
-ERR!   Line 43:2:   Delete `;`                                                                                                                                               prettier/prettier
-ERR!   Line 50:2:   Delete `;`                                                                                                                                               prettier/prettier
-ERR! 
-ERR! src/stories/Button.stories.js
-ERR!   Line 1:34:  Delete `;`  prettier/prettier
-ERR!   Line 11:2:  Delete `;`  prettier/prettier
-ERR!   Line 19:2:  Delete `;`  prettier/prettier
-ERR!   Line 25:2:  Delete `;`  prettier/prettier
-ERR!   Line 32:2:  Delete `;`  prettier/prettier
-ERR!   Line 39:2:  Delete `;`  prettier/prettier
+ERR!   Line 1:19:   Replace `"react";` with `'react'`                                                 prettier/prettier
+ERR!   Line 1:19:   Strings must use singlequote                                                      quotes
+ERR!   Line 2:1:    'prop-types' should be listed in the project's dependencies, not devDependencies  import/no-extraneous-dependencies
+ERR!   Line 2:23:   Replace `"prop-types";` with `'prop-types'`                                       prettier/prettier
+ERR!   Line 2:23:   Strings must use singlequote                                                      quotes
+ERR!   Line 3:8:    Replace `"./button.css";` with `'./button.css'`                                   prettier/prettier
+ERR!   Line 3:8:    Strings must use singlequote                                                      quotes
+ERR!   Line 8:23:   Function component is not a function declaration                                  react/function-component-definition
+ERR!   Line 10:7:   Replace `"storybook-button--primary"` with `'storybook-button--primary'`          prettier/prettier
+ERR!   Line 10:7:   Strings must use singlequote                                                      quotes
+ERR!   Line 11:7:   Replace `"storybook-button--secondary";` with `'storybook-button--secondary'`     prettier/prettier
+ERR!   Line 11:7:   Strings must use singlequote                                                      quotes
+ERR!   Line 15:19:  Replace `"storybook-button"` with `'storybook-button'`                            prettier/prettier
+ERR!   Line 15:19:  Strings must use singlequote                                                      quotes
+ERR!   Line 16:9:   Replace `"·"` with `'·',`                                                         prettier/prettier
+ERR!   Line 16:9:   Strings must use singlequote                                                      quotes
+ERR!   Line 23:4:   Delete `;`                                                                        prettier/prettier
+ERR!   Line 24:2:   Delete `;`                                                                        prettier/prettier
+ERR!   Line 38:26:  Replace `"small",·"medium",·"large"` with `'small',·'medium',·'large'`            prettier/prettier
+ERR!   Line 38:26:  Strings must use singlequote                                                      quotes
+ERR!   Line 38:35:  Strings must use singlequote                                                      quotes
+ERR!   Line 38:45:  Strings must use singlequote                                                      quotes
+ERR!   Line 47:2:   Delete `;`                                                                        prettier/prettier
+ERR!   Line 52:9:   Replace `"medium"` with `'medium'`                                                prettier/prettier
+ERR!   Line 52:9:   Strings must use singlequote                                                      quotes
+ERR!   Line 54:2:   Delete `;`                                                                        prettier/prettier
 ERR! 
 ERR! src/stories/Header.jsx
-ERR!   Line 1:26:   Delete `;`                                                                                                                                                                                                                       prettier/prettier
-ERR!   Line 2:1:    'prop-types' should be listed in the project's dependencies, not devDependencies                                                                                                                                                 import/no-extraneous-dependencies
-ERR!   Line 2:35:   Delete `;`                                                                                                                                                                                                                       prettier/prettier
-ERR!   Line 4:34:   Delete `;`                                                                                                                                                                                                                       prettier/prettier
-ERR!   Line 5:22:   Delete `;`                                                                                                                                                                                                                       prettier/prettier
-ERR!   Line 7:23:   Function component is not a function declaration                                                                                                                                                                                 react/function-component-definition
-ERR!   Line 11:13:  Replace `·width="32"·height="32"·viewBox="0·0·32·32"·xmlns="http://www.w3.org/2000/svg"` with `⏎··········width="32"⏎··········height="32"⏎··········viewBox="0·0·32·32"⏎··········xmlns="http://www.w3.org/2000/svg"⏎········`  prettier/prettier
-ERR!   Line 40:20:  Replace `·primary·size="small"·onClick={onCreateAccount}·label="Sign·up"` with `⏎··············primary⏎··············size="small"⏎··············onClick={onCreateAccount}⏎··············label="Sign·up"⏎···········`             prettier/prettier
-ERR!   Line 46:2:   Delete `;`                                                                                                                                                                                                                       prettier/prettier
-ERR!   Line 55:2:   Delete `;`                                                                                                                                                                                                                       prettier/prettier
-ERR!   Line 59:2:   Delete `;`                                                                                                                                                                                                                       prettier/prettier
-ERR! 
-ERR! src/stories/Header.stories.js
-ERR!   Line 1:34:   Delete `;`  prettier/prettier
-ERR!   Line 12:2:   Delete `;`  prettier/prettier
-ERR!   Line 20:2:   Delete `;`  prettier/prettier
-ERR!   Line 22:28:  Delete `;`  prettier/prettier
+ERR!   Line 1:19:  Replace `"react";` with `'react'`                                                 prettier/prettier
+ERR!   Line 1:19:  Strings must use singlequote                                                      quotes
+ERR!   Line 2:1:   'prop-types' should be listed in the project's dependencies, not devDependencies  import/no-extraneous-dependencies
+ERR!   Line 2:23:  Replace `"prop-types";` with `'prop-types'`                                       prettier/prettier
+ERR!   Line 2:23:  Strings must use singlequote                                                      quotes
+ERR!   Line 4:24:  Replace `"./Button";` with `'./Button'`                                           prettier/prettier
+ERR!   Line 4:24:  Strings must use singlequote                                                      quotes
+ERR!   Line 5:8:   Replace `"./header.css";` with `'./header.css'`                                   prettier/prettier
+ERR!   Line 5:8:   Strings must use singlequote                                                      quotes
+ERR!   Line 7:23:  Function component is not a function declaration                                  react/function-component-definition
+ERR!   Line 56:2:  Delete `;`                                                                        prettier/prettier
+ERR!   Line 65:2:  Delete `;`                                                                        prettier/prettier
+ERR!   Line 69:2:  Delete `;`                                                                        prettier/prettier
 ERR! 
 ERR! src/stories/Page.jsx
-ERR!   Line 1:26:   Delete `;`                                                                                                                                                                                                                                                                          prettier/prettier
-ERR!   Line 3:34:   Delete `;`                                                                                                                                                                                                                                                                          prettier/prettier
-ERR!   Line 4:20:   Delete `;`                                                                                                                                                                                                                                                                          prettier/prettier
-ERR!   Line 6:21:   Function component is not a function declaration                                                                                                                                                                                                                                    react/function-component-definition
-ERR!   Line 7:43:   Delete `;`                                                                                                                                                                                                                                                                          prettier/prettier
-ERR!   Line 22:13:  Replace `·href="https://componentdriven.org"·target="_blank"·rel="noopener·noreferrer"` with `⏎············href="https://componentdriven.org"⏎············target="_blank"⏎············rel="noopener·noreferrer"⏎··········`                                                         prettier/prettier
-ERR!   Line 28:78:  Replace `·page·states·without⏎··········needing·to·navigate·to·them·in·your·app.·Here·are·some·handy·patterns·for·managing·page⏎·········` with `⏎··········page·states·without·needing·to·navigate·to·them·in·your·app.·Here·are⏎··········some·handy·patterns·for·managing·page`  prettier/prettier
-ERR!   Line 34:80:  Replace `·such·data·from·the⏎···········` with `⏎············such·data·from·the`                                                                                                                                                                                                    prettier/prettier
-ERR!   Line 35:13:  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`                                                                                                                                                                                                                     react/no-unescaped-entities
-ERR!   Line 35:18:  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`                                                                                                                                                                                                                     react/no-unescaped-entities
-ERR!   Line 38:81:  Replace `·these·services·out⏎···········` with `⏎············these·services·out`                                                                                                                                                                                                    prettier/prettier
-ERR!   Line 44:13:  Replace `·href="https://storybook.js.org/tutorials/"·target="_blank"·rel="noopener·noreferrer"` with `⏎············href="https://storybook.js.org/tutorials/"⏎············target="_blank"⏎············rel="noopener·noreferrer"⏎··········`                                         prettier/prettier
-ERR!   Line 48:13:  Replace `·href="https://storybook.js.org/docs"·target="_blank"·rel="noopener·noreferrer"` with `⏎············href="https://storybook.js.org/docs"⏎············target="_blank"⏎············rel="noopener·noreferrer"⏎··········`                                                     prettier/prettier
-ERR!   Line 54:79:  Insert `⏎·········`                                                                                                                                                                                                                                                                 prettier/prettier
-ERR!   Line 55:15:  Replace `·width="10"·height="10"·viewBox="0·0·12·12"·xmlns="http://www.w3.org/2000/svg"` with `⏎············width="10"⏎············height="10"⏎············viewBox="0·0·12·12"⏎············xmlns="http://www.w3.org/2000/svg"⏎··········`                                           prettier/prettier
-ERR!   Line 68:4:   Delete `;`                                                                                                                                                                                                                                                                          prettier/prettier
-ERR!   Line 69:2:   Delete `;`                                                                                                                                                                                                                                                                          prettier/prettier
-ERR! 
-ERR! src/stories/Page.stories.js
-ERR!   Line 1:1:    '@storybook/testing-library' should be listed in the project's dependencies, not devDependencies  import/no-extraneous-dependencies
-ERR!   Line 1:63:   Delete `;`                                                                                        prettier/prettier
-ERR!   Line 3:30:   Delete `;`                                                                                        prettier/prettier
-ERR!   Line 12:2:   Delete `;`                                                                                        prettier/prettier
-ERR!   Line 14:28:  Delete `;`                                                                                        prettier/prettier
-ERR!   Line 19:41:  Delete `;`                                                                                        prettier/prettier
-ERR!   Line 22:7:   Delete `;`                                                                                        prettier/prettier
-ERR!   Line 23:39:  Delete `;`                                                                                        prettier/prettier
-ERR!   Line 25:2:   Delete `;`                                                                                        prettier/prettier
+ERR!   Line 1:19:   Replace `"react";` with `'react'`                                prettier/prettier
+ERR!   Line 1:19:   Strings must use singlequote                                     quotes
+ERR!   Line 3:24:   Replace `"./Header";` with `'./Header'`                          prettier/prettier
+ERR!   Line 3:24:   Strings must use singlequote                                     quotes
+ERR!   Line 4:8:    Replace `"./page.css";` with `'./page.css'`                      prettier/prettier
+ERR!   Line 4:8:    Strings must use singlequote                                     quotes
+ERR!   Line 6:21:   Function component is not a function declaration                 react/function-component-definition
+ERR!   Line 7:43:   Delete `;`                                                       prettier/prettier
+ERR!   Line 13:40:  Replace `"Jane·Doe"` with `'Jane·Doe'`                           prettier/prettier
+ERR!   Line 13:40:  Strings must use singlequote                                     quotes
+ERR!   Line 15:48:  Replace `"Jane·Doe"` with `'Jane·Doe'`                           prettier/prettier
+ERR!   Line 15:48:  Strings must use singlequote                                     quotes
+ERR!   Line 21:44:  Replace `"·"` with `'·'`                                         prettier/prettier
+ERR!   Line 21:44:  Strings must use singlequote                                     quotes
+ERR!   Line 28:16:  Replace `"·"` with `'·'`                                         prettier/prettier
+ERR!   Line 28:16:  Strings must use singlequote                                     quotes
+ERR!   Line 39:32:  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+ERR!   Line 39:37:  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+ERR!   Line 47:68:  Replace `"·"` with `'·'`                                         prettier/prettier
+ERR!   Line 47:68:  Strings must use singlequote                                     quotes
+ERR!   Line 55:30:  Replace `"·"` with `'·'`                                         prettier/prettier
+ERR!   Line 55:30:  Strings must use singlequote                                     quotes
+ERR!   Line 67:15:  Replace `"·"` with `'·'`                                         prettier/prettier
+ERR!   Line 67:15:  Strings must use singlequote                                     quotes
+ERR!   Line 86:4:   Delete `;`                                                       prettier/prettier
+ERR!   Line 87:2:   Delete `;`                                                       prettier/prettier
 ERR! 
 ERR! Search for the keywords to learn more about each error.
 ERR! Critical dependency: require function is used in a way in which dependencies cannot be statically extracted
@@ -451,7 +450,6 @@ ERR!     at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (/Users/des/Documents/anyda
 ERR!     at onCompiled (/Users/des/Documents/anydayessay/npx/node_modules/webpack/lib/Compiler.js:330:25)
 ERR!     at /Users/des/Documents/anydayessay/npx/node_modules/webpack/lib/Compiler.js:952:26
 ERR!     at eval (eval at create (/Users/des/Documents/anydayessay/npx/node_modules/tapable/lib/HookCodeFactory.js:28:14), <anonymous>:13:1)
-ERR!     at runMicrotasks (<anonymous>)
 ERR!     at processTicksAndRejections (node:internal/process/task_queues:96:5)
 ERR!  Error: => Webpack failed, learn more with --debug-webpack
 ERR!     at /Users/des/Documents/anydayessay/npx/node_modules/@storybook/builder-webpack5/dist/index.js:113:210
@@ -471,6 +469,4 @@ ERR!     at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (/Users/des/Documents/anyda
 ERR!     at onCompiled (/Users/des/Documents/anydayessay/npx/node_modules/webpack/lib/Compiler.js:330:25)
 ERR!     at /Users/des/Documents/anydayessay/npx/node_modules/webpack/lib/Compiler.js:952:26
 ERR!     at eval (eval at create (/Users/des/Documents/anydayessay/npx/node_modules/tapable/lib/HookCodeFactory.js:28:14), <anonymous>:13:1)
-ERR!     at runMicrotasks (<anonymous>)
 ERR!     at processTicksAndRejections (node:internal/process/task_queues:96:5)
-[?25l[2K[1G[36m?[39m [1mWould you like to help improve Storybook by sending anonymous crash reports?[22m [90m›[39m [90m(Y/n)[39m

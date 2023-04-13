@@ -8,6 +8,7 @@ module.exports = {
     'eslint:recommended',
     'plugin:react/recommended',
     'plugin:storybook/recommended',
+    'plugin:prettier/recommended',
   ],
   overrides: [],
   parserOptions: {
@@ -15,5 +16,8 @@ module.exports = {
     sourceType: 'module',
   },
   plugins: ['react'],
-  rules: {},
+  rules: {
+    quotes: ['error', 'single'],
+    'prettier/prettier': 'error',
+  },
 }
