@@ -21,7 +21,6 @@ jobs:
         with:
           node-version: 16 # Update this to Node.js version 16
           cache: "npm"
-      - run: yarn ci
       - run: yarn prettier
       - run: yarn lint:fix
       - name: Build
