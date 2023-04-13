@@ -15,13 +15,24 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "prettier": "prettier \"src/**/*.{js,jsx}\" --write",
+    "lint": "eslint . --ignore-path .gitignore",
+    "lint:fix": "eslint . --fix",
+    "validate": "run-p prettier lint lint:fix",
+    "prepare": "husky install"
   },
   "eslintConfig": {
     "extends": [
       "react-app",
       "react-app/jest"
     ]
+  },
+  "prettier": {
+    "singleQuote": false,
+    "trailingComma": "es5",
+    "semi": true,
+    "tabWidth": 2
   },
   "browserslist": {
     "production": [
@@ -34,5 +45,31 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "@imaginary-cloud/eslint-config-react": "2.0.1",
+    "@imaginary-cloud/prettier-config": "1.0.0",
+    "@typescript-eslint/eslint-plugin": "5.43.0",
+    "eslint": "8.38.0",
+    "eslint-config-airbnb": "19.0.4",
+    "eslint-config-prettier": "8.3.0",
+    "eslint-config-standard-with-typescript": "34.0.1",
+    "eslint-plugin-import": "2.25.4",
+    "eslint-plugin-jest": "26.0.0",
+    "eslint-plugin-jsx-a11y": "6.5.1",
+    "eslint-plugin-n": "15.0.0",
+    "eslint-plugin-prettier": "4.0.0",
+    "eslint-plugin-promise": "6.0.0",
+    "eslint-plugin-react": "^7.32.2",
+    "eslint-plugin-react-hooks": "4.3.0",
+    "eslint-plugin-security": "1.7.1",
+    "husky": ">=6",
+    "lint-staged": ">=10",
+    "npm-run-all": "4.1.5",
+    "prettier": "2.8.7",
+    "typescript": "^5.0.4"
+  },
+  "lint-staged": {
+    "*.js": "eslint --cache --fix"
   }
 }
