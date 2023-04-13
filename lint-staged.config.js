@@ -1,3 +1,3 @@
 module.exports = {
-  '*.{js, jsx}': () => ['yarn prettier', 'yarn lint:fix'],
-}
+  "*.{js, jsx}": () => ["yarn prettier", "yarn lint:fix"],
+};
