@@ -1,0 +1,476 @@
+@storybook/cli v7.0.4
+
+info => Cleaning outputDir: /var/folders/_9/4pqw7vzd6_98vk0p3_l203y40000gn/T/chromatic--27303-qdGp9ZbkLuaQ
+info => Loading presets
+info => Building manager..
+info => Manager built (277 ms)
+info => Compiling preview..
+info => Copying static files: /Users/des/Documents/anydayessay/npx/node_modules/@storybook/manager/static at /var/folders/_9/4pqw7vzd6_98vk0p3_l203y40000gn/T/chromatic--27303-qdGp9ZbkLuaQ/sb-common-assets
+info Addon-docs: using MDX2
+info => Loading Webpack configuration from `node_modules/react-scripts`
+info => Removing existing JavaScript and TypeScript rules.
+info => Modifying Create React App rules.
+info => Using default Webpack5 setup
+<s> [webpack.Progress] 0% 
+
+<s> [webpack.Progress] 1% setup before run
+<s> [webpack.Progress] 1% setup before run NodeEnvironmentPlugin
+<s> [webpack.Progress] 1% setup before run
+<s> [webpack.Progress] 2% setup run
+<s> [webpack.Progress] 2% setup run ESLintWebpackPlugin_1
+<s> [webpack.Progress] 2% setup run
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 4% setup normal module factory CaseSensitivePathsPlugin
+<s> [webpack.Progress] 4% setup normal module factory ModuleNotFoundPlugin
+<s> [webpack.Progress] 4% setup normal module factory IgnorePlugin
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 5% setup context module factory IgnorePlugin
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 6% setup before compile ProgressPlugin
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 7% setup compile ExternalsPlugin
+<s> [webpack.Progress] 7% setup compile ExternalsPlugin
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 8% setup compilation unplugin-csf
+<s> [webpack.Progress] 8% setup compilation mini-css-extract-plugin
+<s> [webpack.Progress] 8% setup compilation ArrayPushCallbackChunkFormatPlugin
+<s> [webpack.Progress] 8% setup compilation JsonpChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation StartupChunkDependenciesPlugin
+<s> [webpack.Progress] 8% setup compilation ImportScriptsChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileWasmPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileAsyncWasmPlugin
+<s> [webpack.Progress] 8% setup compilation WorkerPlugin
+<s> [webpack.Progress] 8% setup compilation SplitChunksPlugin
+<s> [webpack.Progress] 8% setup compilation RuntimeChunkPlugin
+<s> [webpack.Progress] 8% setup compilation ResolverCachePlugin
+<s> [webpack.Progress] 8% setup compilation HtmlWebpackPlugin
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation ProvidePlugin
+<s> [webpack.Progress] 9% setup compilation ProgressPlugin
+<s> [webpack.Progress] 9% setup compilation InlineChunkHtmlPlugin
+<s> [webpack.Progress] 9% setup compilation InterpolateHtmlPlugin
+<s> [webpack.Progress] 9% setup compilation mini-css-extract-plugin
+<s> [webpack.Progress] 9% setup compilation DocGenPlugin
+<s> [webpack.Progress] 9% setup compilation ChunkPrefetchPreloadPlugin
+<s> [webpack.Progress] 9% setup compilation SourceMapDevToolPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptModulesPlugin
+<s> [webpack.Progress] 9% setup compilation JsonModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AssetModulesPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation RuntimePlugin
+<s> [webpack.Progress] 9% setup compilation InferAsyncModulesPlugin
+<s> [webpack.Progress] 9% setup compilation DataUriPlugin
+<s> [webpack.Progress] 9% setup compilation FileUriPlugin
+<s> [webpack.Progress] 9% setup compilation CompatibilityPlugin
+<s> [webpack.Progress] 9% setup compilation HarmonyModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AMDPlugin
+<s> [webpack.Progress] 9% setup compilation RequireJsStuffPlugin
+<s> [webpack.Progress] 9% setup compilation CommonJsPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation NodeStuffPlugin
+<s> [webpack.Progress] 9% setup compilation APIPlugin
+<s> [webpack.Progress] 9% setup compilation ExportsInfoApiPlugin
+<s> [webpack.Progress] 9% setup compilation WebpackIsIncludedPlugin
+<s> [webpack.Progress] 9% setup compilation ConstPlugin
+<s> [webpack.Progress] 9% setup compilation UseStrictPlugin
+<s> [webpack.Progress] 9% setup compilation RequireIncludePlugin
+<s> [webpack.Progress] 9% setup compilation RequireEnsurePlugin
+<s> [webpack.Progress] 9% setup compilation RequireContextPlugin
+<s> [webpack.Progress] 9% setup compilation ImportPlugin
+<s> [webpack.Progress] 9% setup compilation ImportMetaContextPlugin
+<s> [webpack.Progress] 9% setup compilation SystemPlugin
+<s> [webpack.Progress] 9% setup compilation ImportMetaPlugin
+<s> [webpack.Progress] 9% setup compilation URLPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsFactoryPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPresetPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPrinterPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptMetaInfoPlugin
+<s> [webpack.Progress] 9% setup compilation EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 9% setup compilation RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 9% setup compilation MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 9% setup compilation FlagIncludedChunksPlugin
+<s> [webpack.Progress] 9% setup compilation SideEffectsFlagPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyExportsPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyUsagePlugin
+<s> [webpack.Progress] 9% setup compilation InnerGraphPlugin
+<s> [webpack.Progress] 9% setup compilation MangleExportsPlugin
+<s> [webpack.Progress] 9% setup compilation ModuleConcatenationPlugin
+<s> [webpack.Progress] 9% setup compilation NoEmitOnErrorsPlugin
+<s> [webpack.Progress] 9% setup compilation RealContentHashPlugin
+<s> [webpack.Progress] 9% setup compilation WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 9% setup compilation NamedModuleIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation TerserPlugin
+<s> [webpack.Progress] 9% setup compilation TemplatedPathPlugin
+<s> [webpack.Progress] 9% setup compilation RecordIdsPlugin
+<s> [webpack.Progress] 9% setup compilation WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 9% setup compilation IgnoreWarningsPlugin
+<s> [webpack.Progress] 9% setup compilation ESLintWebpackPlugin_1
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 10% building
+<s> [webpack.Progress] 10% building 0/1 entries 0/0 dependencies 0/0 modules
+<s> [webpack.Progress] 10% building 0/1 entries 5/17 dependencies 3/5 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/babel-loader/lib/index.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/source-map-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building 0/1 entries 11/26 dependencies 3/11 modules
+info => Copying static files: /Users/des/Documents/anydayessay/npx/public at /var/folders/_9/4pqw7vzd6_98vk0p3_l203y40000gn/T/chromatic--27303-qdGp9ZbkLuaQ/
+<s> [webpack.Progress] 10% building 0/1 entries 25/35 dependencies 3/23 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/@storybook/mdx2-csf/loader.js
+<s> [webpack.Progress] 10% building 0/1 entries 25/35 dependencies 4/24 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/unplugin/dist/webpack/loaders/transform.js
+<s> [webpack.Progress] 10% building 0/1 entries 41/76 dependencies 9/31 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/@svgr/webpack/lib/index.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/file-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building 0/1 entries 65/87 dependencies 11/52 modules
+<s> [webpack.Progress] 11% building 0/1 entries 125/142 dependencies 35/83 modules
+<s> [webpack.Progress] 12% building 0/1 entries 169/203 dependencies 45/100 modules
+<s> [webpack.Progress] 12% building import loader ./node_modules/mini-css-extract-plugin/dist/loader.js
+<s> [webpack.Progress] 12% building import loader ./node_modules/css-loader/dist/cjs.js
+<s> [webpack.Progress] 12% building import loader ./node_modules/postcss-loader/dist/cjs.js
+<s> [webpack.Progress] 12% building 0/1 entries 212/242 dependencies 54/123 modules
+<s> [webpack.Progress] 14% building 0/1 entries 375/492 dependencies 90/200 modules
+<s> [webpack.Progress] 21% building 0/1 entries 750/765 dependencies 200/330 modules
+<s> [webpack.Progress] 32% building 0/1 entries 1074/1086 dependencies 400/461 modules
+<s> [webpack.Progress] 64% building 1/1 entries 1440/1440 dependencies 670/670 modules
+<s> [webpack.Progress] 65% building
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing finish module graph ResolverCachePlugin
+<s> [webpack.Progress] 70% sealing finish module graph InferAsyncModulesPlugin
+<s> [webpack.Progress] 70% sealing finish module graph FlagDependencyExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph InnerGraphPlugin
+<s> [webpack.Progress] 70% sealing finish module graph WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph ESLintWebpackPlugin_1
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 70% sealing plugins DocGenPlugin
+<s> [webpack.Progress] 70% sealing plugins WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing dependencies optimization SideEffectsFlagPlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization FlagDependencyUsagePlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 75% sealing chunk optimization EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization SplitChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization ModuleConcatenationPlugin
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 79% sealing module reviving RecordIdsPlugin
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 80% sealing module ids NamedModuleIdsPlugin
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 82% sealing chunk reviving RecordIdsPlugin
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 84% sealing chunk id optimization FlagIncludedChunksPlugin
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record modules RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 86% sealing record chunks RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 92% sealing asset processing ESLintWebpackPlugin_1
+<s> [webpack.Progress] 92% sealing asset processing PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 92% sealing asset processing TerserPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.4239d0c8.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.4239d0c8.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.21a89233.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.21a89233.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Introduction-mdx.0d63036d.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Introduction-mdx.0d63036d.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/stories-Button-stories.4a867eda.chunk.css generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/stories-Button-stories.4a867eda.chunk.css generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Button-stories.0d176df5.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Button-stories.0d176df5.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/stories-Header-stories.395daf4b.chunk.css generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/stories-Header-stories.395daf4b.chunk.css generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Header-stories.83d8a317.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Header-stories.83d8a317.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/stories-Page-stories.42316900.chunk.css generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/stories-Page-stories.42316900.chunk.css generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Page-stories.af8e2efb.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin stories-Page-stories.af8e2efb.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 960.86291b9a.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 960.86291b9a.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 333.0de44f98.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 333.0de44f98.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 58.3025ede9.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 58.3025ede9.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 463.12b5ad84.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 463.12b5ad84.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 661.23f13ed3.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 661.23f13ed3.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 923.7cd70d14.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 923.7cd70d14.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 446.2ce3fa7c.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 446.2ce3fa7c.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 433.c9ae8b43.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 433.c9ae8b43.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 582.8051da58.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 582.8051da58.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 277.1ea2c177.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 277.1ea2c177.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 158.ff8b22d9.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 158.ff8b22d9.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/stories-Button-stories.4a867eda.chunk.css attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/stories-Button-stories.4a867eda.chunk.css attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/stories-Header-stories.395daf4b.chunk.css attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/stories-Header-stories.395daf4b.chunk.css attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/stories-Page-stories.42316900.chunk.css attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin static/css/stories-Page-stories.42316900.chunk.css attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 463.12b5ad84.iframe.bundle.js attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 463.12b5ad84.iframe.bundle.js attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 582.8051da58.iframe.bundle.js attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 582.8051da58.iframe.bundle.js attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 158.ff8b22d9.iframe.bundle.js attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 158.ff8b22d9.iframe.bundle.js attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.cccff77c.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.cccff77c.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.eb4b3f02.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.eb4b3f02.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin stories-Page-stories.2015e825.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin stories-Page-stories.2015e825.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 960.80f4f811.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 960.80f4f811.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 333.41d975db.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 333.41d975db.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 58.3a9c8988.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 58.3a9c8988.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 661.d3a59edf.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 661.d3a59edf.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 923.f1d0f149.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 923.f1d0f149.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 446.5b43444a.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 446.5b43444a.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 433.4fe76ed1.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 433.4fe76ed1.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin stories-Introduction-mdx.fdebea69.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin stories-Introduction-mdx.fdebea69.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin stories-Button-stories.97019377.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin stories-Button-stories.97019377.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin stories-Header-stories.835acd73.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin stories-Header-stories.835acd73.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 277.d0c18347.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 277.d0c18347.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% done plugins CaseSensitivePathsPlugin
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% 
+
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 100% 
+
+ERR! => Failed to build the preview
+ERR! [eslint] 
+ERR! src/stories/Button.jsx
+ERR!   Line 1:26:   Delete `;`                                                                                                                                               prettier/prettier
+ERR!   Line 2:1:    'prop-types' should be listed in the project's dependencies, not devDependencies                                                                         import/no-extraneous-dependencies
+ERR!   Line 2:35:   Delete `;`                                                                                                                                               prettier/prettier
+ERR!   Line 3:22:   Delete `;`                                                                                                                                               prettier/prettier
+ERR!   Line 8:23:   Function component is not a function declaration                                                                                                         react/function-component-definition
+ERR!   Line 9:23:   Replace `·?·'storybook-button--primary'·:·'storybook-button--secondary';` with `⏎····?·'storybook-button--primary'⏎····:·'storybook-button--secondary'`  prettier/prettier
+ERR!   Line 13:79:  Replace `'·'` with `⏎········'·',⏎······`                                                                                                                prettier/prettier
+ERR!   Line 19:4:   Delete `;`                                                                                                                                               prettier/prettier
+ERR!   Line 20:2:   Delete `;`                                                                                                                                               prettier/prettier
+ERR!   Line 43:2:   Delete `;`                                                                                                                                               prettier/prettier
+ERR!   Line 50:2:   Delete `;`                                                                                                                                               prettier/prettier
+ERR! 
+ERR! src/stories/Button.stories.js
+ERR!   Line 1:34:  Delete `;`  prettier/prettier
+ERR!   Line 11:2:  Delete `;`  prettier/prettier
+ERR!   Line 19:2:  Delete `;`  prettier/prettier
+ERR!   Line 25:2:  Delete `;`  prettier/prettier
+ERR!   Line 32:2:  Delete `;`  prettier/prettier
+ERR!   Line 39:2:  Delete `;`  prettier/prettier
+ERR! 
+ERR! src/stories/Header.jsx
+ERR!   Line 1:26:   Delete `;`                                                                                                                                                                                                                       prettier/prettier
+ERR!   Line 2:1:    'prop-types' should be listed in the project's dependencies, not devDependencies                                                                                                                                                 import/no-extraneous-dependencies
+ERR!   Line 2:35:   Delete `;`                                                                                                                                                                                                                       prettier/prettier
+ERR!   Line 4:34:   Delete `;`                                                                                                                                                                                                                       prettier/prettier
+ERR!   Line 5:22:   Delete `;`                                                                                                                                                                                                                       prettier/prettier
+ERR!   Line 7:23:   Function component is not a function declaration                                                                                                                                                                                 react/function-component-definition
+ERR!   Line 11:13:  Replace `·width="32"·height="32"·viewBox="0·0·32·32"·xmlns="http://www.w3.org/2000/svg"` with `⏎··········width="32"⏎··········height="32"⏎··········viewBox="0·0·32·32"⏎··········xmlns="http://www.w3.org/2000/svg"⏎········`  prettier/prettier
+ERR!   Line 40:20:  Replace `·primary·size="small"·onClick={onCreateAccount}·label="Sign·up"` with `⏎··············primary⏎··············size="small"⏎··············onClick={onCreateAccount}⏎··············label="Sign·up"⏎···········`             prettier/prettier
+ERR!   Line 46:2:   Delete `;`                                                                                                                                                                                                                       prettier/prettier
+ERR!   Line 55:2:   Delete `;`                                                                                                                                                                                                                       prettier/prettier
+ERR!   Line 59:2:   Delete `;`                                                                                                                                                                                                                       prettier/prettier
+ERR! 
+ERR! src/stories/Header.stories.js
+ERR!   Line 1:34:   Delete `;`  prettier/prettier
+ERR!   Line 12:2:   Delete `;`  prettier/prettier
+ERR!   Line 20:2:   Delete `;`  prettier/prettier
+ERR!   Line 22:28:  Delete `;`  prettier/prettier
+ERR! 
+ERR! src/stories/Page.jsx
+ERR!   Line 1:26:   Delete `;`                                                                                                                                                                                                                                                                          prettier/prettier
+ERR!   Line 3:34:   Delete `;`                                                                                                                                                                                                                                                                          prettier/prettier
+ERR!   Line 4:20:   Delete `;`                                                                                                                                                                                                                                                                          prettier/prettier
+ERR!   Line 6:21:   Function component is not a function declaration                                                                                                                                                                                                                                    react/function-component-definition
+ERR!   Line 7:43:   Delete `;`                                                                                                                                                                                                                                                                          prettier/prettier
+ERR!   Line 22:13:  Replace `·href="https://componentdriven.org"·target="_blank"·rel="noopener·noreferrer"` with `⏎············href="https://componentdriven.org"⏎············target="_blank"⏎············rel="noopener·noreferrer"⏎··········`                                                         prettier/prettier
+ERR!   Line 28:78:  Replace `·page·states·without⏎··········needing·to·navigate·to·them·in·your·app.·Here·are·some·handy·patterns·for·managing·page⏎·········` with `⏎··········page·states·without·needing·to·navigate·to·them·in·your·app.·Here·are⏎··········some·handy·patterns·for·managing·page`  prettier/prettier
+ERR!   Line 34:80:  Replace `·such·data·from·the⏎···········` with `⏎············such·data·from·the`                                                                                                                                                                                                    prettier/prettier
+ERR!   Line 35:13:  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`                                                                                                                                                                                                                     react/no-unescaped-entities
+ERR!   Line 35:18:  `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`                                                                                                                                                                                                                     react/no-unescaped-entities
+ERR!   Line 38:81:  Replace `·these·services·out⏎···········` with `⏎············these·services·out`                                                                                                                                                                                                    prettier/prettier
+ERR!   Line 44:13:  Replace `·href="https://storybook.js.org/tutorials/"·target="_blank"·rel="noopener·noreferrer"` with `⏎············href="https://storybook.js.org/tutorials/"⏎············target="_blank"⏎············rel="noopener·noreferrer"⏎··········`                                         prettier/prettier
+ERR!   Line 48:13:  Replace `·href="https://storybook.js.org/docs"·target="_blank"·rel="noopener·noreferrer"` with `⏎············href="https://storybook.js.org/docs"⏎············target="_blank"⏎············rel="noopener·noreferrer"⏎··········`                                                     prettier/prettier
+ERR!   Line 54:79:  Insert `⏎·········`                                                                                                                                                                                                                                                                 prettier/prettier
+ERR!   Line 55:15:  Replace `·width="10"·height="10"·viewBox="0·0·12·12"·xmlns="http://www.w3.org/2000/svg"` with `⏎············width="10"⏎············height="10"⏎············viewBox="0·0·12·12"⏎············xmlns="http://www.w3.org/2000/svg"⏎··········`                                           prettier/prettier
+ERR!   Line 68:4:   Delete `;`                                                                                                                                                                                                                                                                          prettier/prettier
+ERR!   Line 69:2:   Delete `;`                                                                                                                                                                                                                                                                          prettier/prettier
+ERR! 
+ERR! src/stories/Page.stories.js
+ERR!   Line 1:1:    '@storybook/testing-library' should be listed in the project's dependencies, not devDependencies  import/no-extraneous-dependencies
+ERR!   Line 1:63:   Delete `;`                                                                                        prettier/prettier
+ERR!   Line 3:30:   Delete `;`                                                                                        prettier/prettier
+ERR!   Line 12:2:   Delete `;`                                                                                        prettier/prettier
+ERR!   Line 14:28:  Delete `;`                                                                                        prettier/prettier
+ERR!   Line 19:41:  Delete `;`                                                                                        prettier/prettier
+ERR!   Line 22:7:   Delete `;`                                                                                        prettier/prettier
+ERR!   Line 23:39:  Delete `;`                                                                                        prettier/prettier
+ERR!   Line 25:2:   Delete `;`                                                                                        prettier/prettier
+ERR! 
+ERR! Search for the keywords to learn more about each error.
+ERR! Critical dependency: require function is used in a way in which dependencies cannot be statically extracted
+ERR! Critical dependency: require function is used in a way in which dependencies cannot be statically extracted
+ERR! Critical dependency: require function is used in a way in which dependencies cannot be statically extracted
+ERR! Critical dependency: require function is used in a way in which dependencies cannot be statically extracted
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 100% 
+
+ERR! Error: => Webpack failed, learn more with --debug-webpack
+ERR!     at /Users/des/Documents/anydayessay/npx/node_modules/@storybook/builder-webpack5/dist/index.js:113:210
+ERR!     at /Users/des/Documents/anydayessay/npx/node_modules/webpack/lib/HookWebpackError.js:40:5
+ERR!     at Hook.eval [as callAsync] (eval at create (/Users/des/Documents/anydayessay/npx/node_modules/tapable/lib/HookCodeFactory.js:28:14), <anonymous>:11:1)
+ERR!     at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (/Users/des/Documents/anydayessay/npx/node_modules/tapable/lib/Hook.js:15:15)
+ERR!     at Cache.shutdown (/Users/des/Documents/anydayessay/npx/node_modules/webpack/lib/Cache.js:116:25)
+ERR!     at /Users/des/Documents/anydayessay/npx/node_modules/webpack/lib/Compiler.js:977:18
+ERR!     at Hook.eval [as callAsync] (eval at create (/Users/des/Documents/anydayessay/npx/node_modules/tapable/lib/HookCodeFactory.js:28:14), <anonymous>:6:1)
+ERR!     at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (/Users/des/Documents/anydayessay/npx/node_modules/tapable/lib/Hook.js:15:15)
+ERR!     at Compiler.close (/Users/des/Documents/anydayessay/npx/node_modules/webpack/lib/Compiler.js:972:25)
+ERR!     at /Users/des/Documents/anydayessay/npx/node_modules/@storybook/builder-webpack5/dist/index.js:113:156
+ERR!     at finalCallback (/Users/des/Documents/anydayessay/npx/node_modules/webpack/lib/Compiler.js:318:9)
+ERR!     at /Users/des/Documents/anydayessay/npx/node_modules/webpack/lib/Compiler.js:333:18
+ERR!     at Hook.eval [as callAsync] (eval at create (/Users/des/Documents/anydayessay/npx/node_modules/tapable/lib/HookCodeFactory.js:28:14), <anonymous>:23:1)
+ERR!     at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (/Users/des/Documents/anydayessay/npx/node_modules/tapable/lib/Hook.js:15:15)
+ERR!     at onCompiled (/Users/des/Documents/anydayessay/npx/node_modules/webpack/lib/Compiler.js:330:25)
+ERR!     at /Users/des/Documents/anydayessay/npx/node_modules/webpack/lib/Compiler.js:952:26
+ERR!     at eval (eval at create (/Users/des/Documents/anydayessay/npx/node_modules/tapable/lib/HookCodeFactory.js:28:14), <anonymous>:13:1)
+ERR!     at runMicrotasks (<anonymous>)
+ERR!     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+ERR!  Error: => Webpack failed, learn more with --debug-webpack
+ERR!     at /Users/des/Documents/anydayessay/npx/node_modules/@storybook/builder-webpack5/dist/index.js:113:210
+ERR!     at /Users/des/Documents/anydayessay/npx/node_modules/webpack/lib/HookWebpackError.js:40:5
+ERR!     at Hook.eval [as callAsync] (eval at create (/Users/des/Documents/anydayessay/npx/node_modules/tapable/lib/HookCodeFactory.js:28:14), <anonymous>:11:1)
+ERR!     at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (/Users/des/Documents/anydayessay/npx/node_modules/tapable/lib/Hook.js:15:15)
+ERR!     at Cache.shutdown (/Users/des/Documents/anydayessay/npx/node_modules/webpack/lib/Cache.js:116:25)
+ERR!     at /Users/des/Documents/anydayessay/npx/node_modules/webpack/lib/Compiler.js:977:18
+ERR!     at Hook.eval [as callAsync] (eval at create (/Users/des/Documents/anydayessay/npx/node_modules/tapable/lib/HookCodeFactory.js:28:14), <anonymous>:6:1)
+ERR!     at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (/Users/des/Documents/anydayessay/npx/node_modules/tapable/lib/Hook.js:15:15)
+ERR!     at Compiler.close (/Users/des/Documents/anydayessay/npx/node_modules/webpack/lib/Compiler.js:972:25)
+ERR!     at /Users/des/Documents/anydayessay/npx/node_modules/@storybook/builder-webpack5/dist/index.js:113:156
+ERR!     at finalCallback (/Users/des/Documents/anydayessay/npx/node_modules/webpack/lib/Compiler.js:318:9)
+ERR!     at /Users/des/Documents/anydayessay/npx/node_modules/webpack/lib/Compiler.js:333:18
+ERR!     at Hook.eval [as callAsync] (eval at create (/Users/des/Documents/anydayessay/npx/node_modules/tapable/lib/HookCodeFactory.js:28:14), <anonymous>:23:1)
+ERR!     at Hook.CALL_ASYNC_DELEGATE [as _callAsync] (/Users/des/Documents/anydayessay/npx/node_modules/tapable/lib/Hook.js:15:15)
+ERR!     at onCompiled (/Users/des/Documents/anydayessay/npx/node_modules/webpack/lib/Compiler.js:330:25)
+ERR!     at /Users/des/Documents/anydayessay/npx/node_modules/webpack/lib/Compiler.js:952:26
+ERR!     at eval (eval at create (/Users/des/Documents/anydayessay/npx/node_modules/tapable/lib/HookCodeFactory.js:28:14), <anonymous>:13:1)
+ERR!     at runMicrotasks (<anonymous>)
+ERR!     at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[?25l[2K[1G[36m?[39m [1mWould you like to help improve Storybook by sending anonymous crash reports?[22m [90m›[39m [90m(Y/n)[39m

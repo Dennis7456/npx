@@ -7,6 +7,7 @@ module.exports = {
     '@imaginary-cloud/react',
     'eslint:recommended',
     'plugin:react/recommended',
+    'plugin:storybook/recommended',
   ],
   overrides: [],
   parserOptions: {
