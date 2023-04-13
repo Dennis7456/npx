@@ -2,9 +2,11 @@ name: Ikea CI
 
 on:
   push:
-    branches: [main]
+    branches:
+      - main
   pull_request:
-    branches: [main]
+    branches:
+      - main
 
 jobs:
   build:
@@ -13,7 +15,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
         with:
-          fetch-depth: 0 # 👈 Required to retrieve git history
+          fetch-depth: 0 # Required to retrieve git history
       - name: Use Node.js 16.x
         uses: actions/setup-node@v2
         with:
@@ -23,4 +25,4 @@ jobs:
       - run: yarn prettier
       - run: yarn lint:fix
       - name: Build
-      - run: npm run build
+        run: npm run build # Update with your build command
